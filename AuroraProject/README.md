@@ -1,14 +1,24 @@
-# GeloAurora
+# README
 
-### Cliente
-#### Nome
-#### Endereço
-#### Telefone
+This README would normally document whatever steps are necessary to get the
+application up and running.
 
-### Venda
-#### Preço
-#### Quantidade
-#### Data
-#### ID_CLIENTE
+Things you may want to cover:
 
-### Active Admin
+* Ruby version
+
+* System dependencies
+
+* Configuration
+
+* Database creation
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
