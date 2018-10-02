@@ -1,12 +1,14 @@
 # GeloAurora
 
-## Cliente
-### Nome
-### Endereço
-### Telefone
+### Cliente
+#### Nome
+#### Endereço
+#### Telefone
 
-## Venda
-### Preço
-### Quantidade
-### Data
-### ID_CLIENTE
+### Venda
+#### Preço
+#### Quantidade
+#### Data
+#### ID_CLIENTE
+
+### Active Admin
